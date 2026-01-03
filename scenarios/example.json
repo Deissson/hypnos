@@ -1,0 +1,10 @@
+{
+    "name": "Open Notepad",
+    "description": "Opens the Notepad application.",
+    "steps": [
+        {
+            "action": "run",
+            "command": "notepad.exe"
+        }
+    ]
+}
