@@ -1,4 +1,5 @@
-/config/config.json
-/scenarios/
+/config
+/scenarios
 /core/__pycache__
 /bot/__pycache__
+
