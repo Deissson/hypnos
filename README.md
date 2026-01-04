@@ -18,7 +18,7 @@ Hypnos is a Python-based Telegram bot designed to allow you to remotely control 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/hypnos.git
+    git clone https://github.com/Deissson/hypnos.git
     cd hypnos
     ```
 
